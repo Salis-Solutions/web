@@ -11,7 +11,7 @@ window.addEventListener("scroll", function(){
     }
     else{
 
-        header.style.background = "rgba(245,238,220,.85)";
+        header.style.background = "rgba(245,238,220,.55)";
 
     }
 
