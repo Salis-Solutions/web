@@ -6,12 +6,12 @@ window.addEventListener("scroll", function(){
 
     if(window.scrollY > 80){
 
-        header.style.background = "rgba(0,0,0,0.85)";
+        header.style.background = "rgba(245,238,220,.97)";
 
     }
     else{
 
-        header.style.background = "rgba(0,0,0,0.35)";
+        header.style.background = "rgba(245,238,220,.85)";
 
     }
 
